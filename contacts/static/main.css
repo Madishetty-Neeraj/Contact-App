@@ -1,0 +1,75 @@
+body {
+    background: #fafafa;
+    color: black;
+    margin-top: 5rem;
+    background-color: lightsteelblue;
+    
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+  }
+  
+  .bg-steel {
+    background-color: #5f788a;
+  }
+  
+  .site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  #logo{
+    width:30px;
+    margin-right: 10px;
+  }
+  
+  #table
+  {
+    right:50px;
+
+  }
+
+  #middle{
+    padding-left: 50px;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    right: 10px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .left-half {
+    background: url(photo5.png);
+    width: 60%;
+    position: absolute;
+    left: 0px;
+    top:50px;
+    height: 92.2%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+ .right-half {
+  width: 40%;
+  right:0px;
+  padding-left: 100px;
+  margin-left: 30px;
+  position: absolute;
+}
+
+.content-section
+{
+  width:60%;
+}
