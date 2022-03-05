@@ -65,6 +65,7 @@ python main.py
       ```
 
 2.Update user details
+
        ```json
        {
            "username" :"String :name",
